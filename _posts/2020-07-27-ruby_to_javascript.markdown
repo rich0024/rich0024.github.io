@@ -1,0 +1,15 @@
+---
+layout: post
+title:      "Ruby to Javascript"
+date:       2020-07-27 21:23:33 +0000
+permalink:  ruby_to_javascript
+---
+
+
+The web development program currently goes ruby, sinatra, rails, javascript, react then redux. Each transition came with their own challenges; before getting to javascript, the main transition hurdle has been understanding new concepts. The challenge with going from sinatra to javascripts was understanding a new concept while having trouble communicating thoughts. It is a bit cliche to compare learning a new coding language to learning a new actual language; however, there is a reason this cliche exists and it was evident during the section and project.  The silver lining of the challenge is that the same skills to overcome previous hurdles are still effective. In that, the main skills that have been useful up until javascript have been reading errors, googling and some advice I got from a flatiron instructor; his advice was to relax and evaluate three things the return value you want to get, the return value you are getting and the code dictating your output. 
+
+Visual studio code and the google console are immensely helpful with the way they display errors. Moreover, many of the errors encountered were easily located and ammended. Some common encountere unexpected/expected end of inputs, something being undefined or a value returning null. Often times, these were clearly located with error meassages. Maybe there is more sophisticated error and syntax detection for ruby in other editors, but I found with Javascript, errors and syntax were very simple to understand. In addition to that, Javascript is used for 95% of websites, so it is expected that the resources available for Javascript programming are vast.
+
+Adding to the idea idea of how vast resources are for Javascript, every issue I encountered or got stuck on, someone else faced. Not only has someone had similar issues, they also asked the question of how to deal with it and that interaction is often documented. The world of programmers is highly connected and members of the community are constantly helping one another through sites like stackoverflow or reddit. With that, the information to help any situation is available online, and is often a good google search away. I do not have a science to googling; more so it is a skill that I have been developing and building on top of since the start of the program. I was told at the start of the program that googling will be the most important skill and it has been proven to be true since.
+
+In no way is my knowledge of Javascript or Ruby complete. There is still much to learn and problems to be worked out. However, with the skills previously mentioned, there should not be too many walls that cannot be broken through. Moving forward, developing skills will come down to building knowledge of html, reading/watching resources available and being exposed more to the language. Completion of the Javascript project has made me a bit optimistic and motivated to get through to the final project.
