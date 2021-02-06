@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Hash Over Array"
-date:       2021-02-06 00:58:31 +0000
+date:       2021-02-05 19:58:32 -0500
 permalink:  hash_over_array
 ---
 
@@ -11,3 +11,9 @@ When looking for a specific element in an array, there are a handful of methods 
 Now, lets take a hash and have the dog names be the key and index be the value, so it will look something like:
 hash = {marley => 0; fido => 1; bordeaux => 2; lumi => 3}
 with this, finding the same thing becomes easier and faster. Now, instead of calling a method on an array to find the specific element with a corresponding index, one can simply put hash plus the index and corresponding information will follow "hash[0]" will return marley.
+
+Here is a simple way to turn an array into a hash
+
+hash = {}
+
+array.each_with_index{ |e, i| hash[e] = i}
