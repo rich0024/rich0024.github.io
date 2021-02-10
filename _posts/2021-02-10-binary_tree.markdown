@@ -1,15 +1,18 @@
 ---
 layout: post
 title:      "Binary Tree"
-date:       2021-02-10 21:34:18 +0000
+date:       2021-02-10 16:34:19 -0500
 permalink:  binary_tree
 ---
 
+```
       1
    /      \
   2       2
  / \      / \
 3  4  4  3
+```
+
 
 Above is a binary tree, a data structure which has one root value that branches into two or less children. Typically, the children are named left and right. 
 
