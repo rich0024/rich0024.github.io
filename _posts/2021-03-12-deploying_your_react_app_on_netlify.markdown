@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Deploying Your React APP on Netlify"
-date:       2021-03-12 17:39:13 +0000
+date:       2021-03-12 12:39:13 -0500
 permalink:  deploying_your_react_app_on_netlify
 ---
 
@@ -15,6 +15,7 @@ Step 2: "Create a new site"
 Step 3: Link your Github
 
 Step 4: Pick your repository and "Deploy site" (You will see that it did not deploy)
+(Error: npm ERR! code ELIFECYCLE)
 
 Step 5: In your terminal run "npm run build"
 
