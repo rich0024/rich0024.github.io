@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: yance0022@gmail.com
 copyright_name: Richard Yance
 description: > # this means to ignore newlines until "baseurl:"
-  Documenting several benchmarks of become a software engineer
+  Documenting several benchmarks of becoming a software engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rich0024
